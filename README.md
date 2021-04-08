@@ -7,3 +7,5 @@ Tela feita para aprender mais sobre React e como utilizar seus elementos.
 ## Tela
 
 ![image](./public/assets/screenshot.png)
+
+[Meu Linkedin](https://www.linkedin.com/in/kaio-matos-9532271a5)
