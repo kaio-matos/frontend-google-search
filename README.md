@@ -8,4 +8,8 @@ Tela feita para aprender mais sobre React e como utilizar seus elementos.
 
 ![image](./public/assets/screenshot.png)
 
+### Tecnologias usadas:
+
+- React JS
+
 [Meu Linkedin](https://www.linkedin.com/in/kaio-matos-9532271a5)
