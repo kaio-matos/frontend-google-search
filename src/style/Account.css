@@ -1,0 +1,49 @@
+.account {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0.3rem;
+  font-size: 0.8rem;
+}
+
+.account button,
+.account a {
+  margin-right: 1em;
+}
+
+.account a {
+  color: #212121;
+}
+
+.account button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0.5em;
+  background-color: transparent;
+}
+
+.account button:hover {
+  border-radius: 50%;
+  background-color: #00000015;
+}
+
+.account img {
+  height: 100%;
+  width: 100%;
+}
+.account button:first-of-type {
+  width: 3em;
+}
+
+.account button:last-of-type {
+  width: 3.4em;
+}
+
+.account button:last-of-type img {
+  border-radius: 50%;
+}

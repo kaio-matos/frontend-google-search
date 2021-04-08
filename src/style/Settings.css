@@ -1,0 +1,36 @@
+.settings {
+  background-color: #f2f2f2;
+  color: #70757a;
+  font-size: 0.95rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.settings p {
+  padding: 1rem 1.5rem;
+}
+
+.settings hr {
+  border: none;
+  border-top: 1px solid #dadce0;
+}
+
+.linksFooter {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1.5rem;
+}
+
+.linksFooter div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.linksFooter a {
+  padding: 1rem;
+  color: #70757a;
+}
