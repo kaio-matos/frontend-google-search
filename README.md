@@ -6,7 +6,7 @@ Tela feita para aprender mais sobre React e como utilizar seus elementos.
 
 ## Tela
 
-![image](./public/assets/screenshot.png)
+![image](./README/google-state-0.png)
 
 ### Tecnologias usadas:
 
